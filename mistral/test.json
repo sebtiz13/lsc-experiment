@@ -1,0 +1,29 @@
+[
+  {
+    "socket": 2,
+    "activation": "activate",
+    "start_time": "23:30",
+    "end_time": "00:30",
+    "repeat": "once",
+    "open_duration": "1min",
+    "close_duration": "1min"
+  },
+  {
+    "socket": 2,
+    "activation": "activate",
+    "start_time": "16:40",
+    "end_time": "12:40",
+    "repeat": "once",
+    "open_duration": "1min",
+    "close_duration": "1min"
+  },
+  {
+    "socket": 1,
+    "activation": "activate",
+    "start_time": "23:30",
+    "end_time": "00:30",
+    "repeat": "once",
+    "open_duration": "1min",
+    "close_duration": "1min"
+  }
+]
